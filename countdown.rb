@@ -2,5 +2,6 @@
 
 def countdown(x)
   while x != 0
+    x-=x
   end
 end
